@@ -11,10 +11,10 @@ bread:
 banana:
   unit_price: 0.99
   sale: false
-  sale_quantity: 0
+  sale_quantity: 1
   sale_price: 0
 apple:
   unit_price: 0.89
   sale: false
-  sale_quantity: 0
+  sale_quantity: 1
   sale_price: 0
